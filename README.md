@@ -44,7 +44,10 @@
 ---
 
 ## ✍️ Latest from the Blog
-- Coding, Markets, and Side Projects → https://blog.hwooo.life  
+- Coding, Markets, and Side Projects → https://blog.hwooo.life
+<!-- BLOG:START -->
+_No recent posts_
+<!-- BLOG:END -->
 
 ---
 
