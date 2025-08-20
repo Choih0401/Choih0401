@@ -31,9 +31,9 @@
 - **pyEugene** — Eugene OpenApi python wrapper (Python3)  
   → https://github.com/Choih0401/pyEugene · https://pypi.org/project/pyeugene/
 - **NEEEEEWS** — SvelteKit 뉴스 요약·감성 대시보드 (Docker/CI/CD)  
-  → https://github.com/Choih0401/neeeeews · https://hub.docker.com/r/choih0401/neeeeews
+  → https://github.com/Choih0401/neeeeews · https://news.hwooo.life
 - **Hyunmantle** — 한국어 세맨틀 클론 (Flask + Word2Vec)  
-  → https://github.com/Choih0401/hyunmantle · https://hub.docker.com/r/choih0401/hyunmantle
+  → https://github.com/Choih0401/hyunmantle · https://quiz.hwooo.life
 - **Bloock** — 블록체인 기반 헌혈증 (Node.js, 해커톤)  
   → https://github.com/Choih0401/Bloock
 - **BlindCoding** — CodeGate 2019 Layer7 부스(Node + React)  
