@@ -44,7 +44,6 @@
 ---
 
 ## ✍️ Latest from the Blog
-- Thoughts on Software, Finance, and Side Projects → https://blog.hwooo.life
 <!-- BLOG:START -->
 - **2025-08-05** — [토스 다른 글자 찾기 자동화](https://blog.hwooo.life/2025/08/05/%ED%86%A0%EC%8A%A4-%EB%8B%A4%EB%A5%B8-%EA%B8%80%EC%9E%90-%EC%B0%BE%EA%B8%B0-%EC%9E%90%EB%8F%99%ED%99%94.html)
 - **2025-07-30** — [현맨틀 프로젝트](https://blog.hwooo.life/2025/07/30/%ED%98%84%EB%A7%A8%ED%8B%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.html)
