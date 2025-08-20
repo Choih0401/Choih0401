@@ -39,7 +39,7 @@
 - **BlindCoding** — CodeGate 2019 Layer7 부스(Node + React)  
   → https://github.com/Choih0401/Layer7_BlindCoding
 - **Layer7 QR Hunt** — 교내 QR 스캐빈저(Flask)  
-  → https://github.com/Choih0401/Layer7_BlindCoding
+  → https://github.com/Choih0401/Layer7_Qrcode
 
 ---
 
