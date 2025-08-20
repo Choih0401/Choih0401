@@ -1,7 +1,7 @@
 <h1 align="center">Hwooo / 최현우</h1>
 <p align="center">
   <b>App/Web Developer @ Securities</b> · Building tools for markets & people<br/>
-  Coding, Markets, and Side Projects
+  Software, Finance, and Side Projects
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 ---
 
 ## ✍️ Latest from the Blog
-- Coding, Markets, and Side Projects → https://blog.hwooo.life
+- Thoughts on Software, Finance, and Side Projects → https://blog.hwooo.life
 <!-- BLOG:START -->
 _No recent posts_
 <!-- BLOG:END -->
