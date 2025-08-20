@@ -63,7 +63,6 @@
 
 ## 📈 Stats
 <p>
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Choih0401&theme=vue" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choih0401&layout=compact&theme=transparent" />
 </p>
 
