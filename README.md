@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://blog.hwooo.life">Blog</a> ·
   <a href="https://github.com/Choih0401">GitHub</a> ·
-  <a href="mailto:choih0401@gmail.com">Email</a>
+  <a href="mailto:danielch0401@naver.com">Email</a>
 </p>
 
 <p align="center">
