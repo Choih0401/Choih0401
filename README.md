@@ -11,8 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
